@@ -2,8 +2,17 @@
             color:red;
             background:yellow;
         }
-        #first{
+        h2{
             color:yellow;
             background: red;
         }
-    
+h3
+{
+    color:beige;
+        background:aqua;
+}
+    h4
+{
+    color:firebrick;
+    background:beige;
+}
